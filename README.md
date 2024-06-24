@@ -16,8 +16,15 @@ I used Android Studio for Windows.
 5. Set up config for web access to get data (https://fetch-hiring.s3.amazonaws.com/) in `AndroidManifest.xml`
     ```html
     <uses-permission android:name="android.permission.INTERNET" />
+
+
     ```
 6. Run the project
+
+### Images
+![image](https://github.com/jeffreyzhangsd/Fetch-Android-Takehome/assets/109628105/dff4e4b5-0143-4b06-889f-23f82c4344d3)
+![image](https://github.com/jeffreyzhangsd/Fetch-Android-Takehome/assets/109628105/f2b8654c-3a3f-4725-8e02-4af42d92c26c)
+
 
 
 
